@@ -268,8 +268,7 @@ defaults:
       path: "/posts/"
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: posts
       read_time: true
       comments: true
       share: true
@@ -280,5 +279,4 @@ defaults:
       type: pages
     values:
       layout: splash
-      author_profile: true
       
