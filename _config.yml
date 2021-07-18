@@ -260,19 +260,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
   # posts
   - scope:
       path: "/posts/"
       type: posts
     values:
       layout: posts
+      author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
   # about
   - scope:
       path: "/about/"
