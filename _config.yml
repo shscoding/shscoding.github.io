@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Engi's Exchanges"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Ideas in motion"
 name                     : "Tom Zhang"
 description              : "Learning experiences"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/tomLogo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -102,11 +102,14 @@ analytics:
 # Site Author
 author:
   name             : "Tom Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am currently a junior in high school aiming to become an engineer. I hope I can share some of my insights in learning and other aspects of life."
-  location         : "USA"
+  avatar           : "/assets/images/me.jpg"
+  bio              : "Junior in high school looking to learn new things. I hope to share some of them with you!"
+  location         : "Connecticut, USA"
   email            : "zhangtom2088@gmail.com"
   links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCyj_vwme_dV8-YjySCjsdrw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EngiTom"
@@ -117,6 +120,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCyj_vwme_dV8-YjySCjsdrw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EngiTom"
@@ -192,7 +198,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /_pages/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -260,6 +266,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
+
+      toc: true
+      toc_sticky: true
+      toc_label: "Table of Contents"
+      toc_icon: "cog"
   # posts
   - scope:
       path: "/posts/"
@@ -268,6 +280,7 @@ defaults:
       layout: posts
       author_profile: true
       read_time: true
+      show_date: true
   # about
   - scope:
       path: "/about/"
