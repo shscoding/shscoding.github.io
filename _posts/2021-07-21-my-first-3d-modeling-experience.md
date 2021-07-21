@@ -15,7 +15,7 @@ I started using [Fusion 360](https://www.autodesk.com/products/fusion-360/overvi
 Let's say that you were creating a hole in a box but you wanted a better view from another angle so you click the icons on the bottom of the screen to rotate and pan the camera. This will actually stop you from being able to reselect the window for the hole-making tool. 
 
 ## Shortcuts and Keybinds
-I learned from a (YouTube video)[https://www.youtube.com/watch?v=PCPyy_RVEhM] that I can pan and rotate using the middle mouse button and shift + the middle mouse button, respectively. This method actually does not cause the prior issue of not being able to reselect the hole tool. 
+I learned from a [YouTube video](https://www.youtube.com/watch?v=PCPyy_RVEhM) that I can pan and rotate using the middle mouse button and shift + the middle mouse button, respectively. This method actually does not cause the prior issue of not being able to reselect the hole tool. 
 
 I'm not sure why it would happen this way but I would assume that the issue was brought up earlier by the people who actually knew the keybinds already. 
 Before I discuss a structure that I was tasked with replicating, it should be noted that I learned about the keybinds after I learned how to recreate the structure. 
