@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Data Visualization in Python with Plotly"
+title: "Data Visualization with Plotly"
 date: 2021-07-25 18:00:00 +00:00
 author_profile: true
 header: 
@@ -14,4 +14,4 @@ Everyone knows that every piece of text on the internet published within the las
 
 {% include video id="rhgwIhB58PA" provider="youtube" %}
 
-One of the best ways to support an idea is with data evidence in the form of some graph. For example, if you wanted to argue that dogs are better pets than cats, you could make a bar graph of
+One of the best ways to support an idea is with data evidence in the form of some graph. For example, if you wanted to argue that dogs are better pets than cats because more people have a dog as a pet, you could make a bar graph of the number of households with dogs compared to the number of households with cats. 
