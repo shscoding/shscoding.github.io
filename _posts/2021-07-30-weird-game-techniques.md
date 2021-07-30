@@ -53,7 +53,7 @@ The Minion Horde costs five elixir and drops six minions on the vertices of a re
 
 Something to note is that, in 2.5D games like *Clash Royale*, flying troops cover ground troops when they are displayed on the screen. Taking advantage of this, if a player were to put a Minion Horde and a Mini Pekka on the same spot at the same time (for a combined total of nine elixir), the opponent would barely be able to see the Mini Pekka. Including the fact that the troops are all dark-colored, this combination becomes extremely potent. 
 
-{% include video id="dvxXJv5lipg&t=238s" provider="youtube" %}
+{% include video id="dvxXJv5lipg?start=238" provider="youtube" %}
 
 In the video, the person uses Arrows to destroy the Minion Horde, which is a common strategy because Arrows cost three elixir while the Minion Horde costs five, and realizes that there was a Mini Pekka hiding under it the whole time. 
 
