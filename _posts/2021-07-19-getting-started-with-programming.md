@@ -10,7 +10,13 @@ toc: true
 categories: Programming
 ---
 
-## Starting Time Period
+Today, programming is a tool used in practically every industry. Of course, this is because every industry probably uses computers for one purpose or another. Storing information and manipulating/managing it is probably something that comes up very often across various fields. 
+
+For example, to discover safe and effective drugs, it might be a good idea to modify the structure of existing drugs. Let's say that programming was not used in this process; people would have to draw the molecules on paper and make a 3D model of some sort, like what those two fellows were doing at that Cambridge pub some years ago. However, a group of modern scientists would have to be a lot more intoxicated than the prior two to actually want to do that for the thousands of molecules in their library. I might not be entirely right about the process that would have to take place, but, fortunately, we can all forget about my daydream because computers exist!
+
+The point is, if you can make computers do what you want, or even just an understanding of how you might be able to, you have a valuable skill that can be applied to many areas of interest. 
+
+## When to Start
 Everyone should know how coding works generally from a young age, and I believe that most people in the U.S. are exposed to the MIT block-programming language, [Scratch](https://scratch.mit.edu/), starting around primary school. 
 
 As a kid during indoor recesses in elementary school, I always found it incredibly frustrating that there were very few top-notch games on Scratch. The port of *Street Fighter* was just the part where the player has to destroy the car, which didn't actually work correctly. I would assume that the reason is only kids use Scratch and people with more experience do not think of developing a game using the block-programming language. 
