@@ -7,6 +7,7 @@ header:
   image: https://images.unsplash.com/photo-1529751480052-2f3f1839834e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
   caption: "Photo credit: [**Micaela Parente**](https://unsplash.com/photos/YGgKE6aHaUw)"
 toc: true
+toc_sticky: false
 categories: [Gaming]
 ---
 

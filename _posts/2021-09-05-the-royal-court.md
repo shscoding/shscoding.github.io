@@ -7,6 +7,7 @@ header:
   image: https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
   caption: "Photo credit: [**MChe Lee**](https://unsplash.com/photos/PC91Jm1DlWA)"
 toc: true
+toc_sticky: false
 categories: [Personal, School]
 ---
 

@@ -7,6 +7,7 @@ header:
   image: /assets/images/namakLakeIranHasanAlmasi.jpg
   caption: "Photo credit: [**Hasan Almasi**](https://unsplash.com/photos/5ddKJB6fgTQ)"
 toc: true
+toc_sticky: false
 categories: Personal
 ---
 
