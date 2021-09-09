@@ -11,6 +11,8 @@ toc_sticky: true
 categories: [Data Visualization]
 ---
 
+"Open your eyes." — Morpheus
+
 ## Importance of Visualization
 Everyone knows that every piece of text on the internet published within the last decade must have some kind of multimedia attached to it or else it becomes difficult to read. With decreasing attention spans and [evidence](https://www.youtube.com/watch?v=rhgwIhB58PA) which suggests visuals and text should be combined for better comprehension, presenters are always trying to find the best way to demonstrate ideas to their audience through all kinds of graphics.
 

@@ -11,6 +11,8 @@ toc_sticky: true
 categories: [3D Modeling]
 ---
 
+"Diggy diggy hole." — Yogscast
+
 ## Initial Impressions
 I started using [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) by Autodesk yesterday and began to learn how to make some basic shapes and solids. I personally found it pretty annoying that panning the camera and rotating the view in the middle of an action makes it impossible to go back into the original action.
 

@@ -11,6 +11,10 @@ toc_sticky: true
 categories: [Gaming]
 ---
 
+"What is that cheese bro?" — Unknown
+
+## Intro
+
 In all games there are players who manage to discover rare techniques which are not necessarily cheating but definitely give them advantages over those who would rather spend their time mastering the fundamentals. Since the Tokyo 2020 Olympics are happening right now, I also decided to include some weird techniques that can be found in some sports.
 
 ## Flying Riposte

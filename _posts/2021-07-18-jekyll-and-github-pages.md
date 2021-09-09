@@ -11,6 +11,8 @@ toc_sticky: true
 categories: Personal
 ---
 
+"All things are difficult before they are easy. Lucky # 4, 9, 13, 22, 35." — F.C.
+
 ## A Rough Start
 I just created the blog today using [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/). I must say that Jekyll has quite a learning curve. Don't get me wrong, the documentation is full of basically everything that I could ever want; it's just difficult to get started. It was tedious to get the actual structure of the website working and the documentation tries to explain it but it requires some assumptions and experience to actually figure it out. I guess I shouldn't be complaining though, because I did eventually get it working. 
 
