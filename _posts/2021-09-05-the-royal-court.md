@@ -15,7 +15,7 @@ categories: [Personal, School]
 
 ## The Royal Court
 
-Now as a junior, my classrooms contain two clowns and two uncles. One of my teachers is a long-time comedian, another one pretends to be sad (in a funny way), and the other two interesting teachers are like uncles. They're all pretty fun to have as teachers; the first two are very entertaining as people, while the latter two make the material enjoyable to learn. I also have two other great teachers, but they don't have very distinct characteristics that would let them fit into this analogy.
+Now as a junior, my classrooms contain two clowns (in a good way) and two uncles. One of my teachers is a long-time comedian, another one pretends to be sad (in a funny way), and the other two interesting teachers are like uncles. They're all pretty fun to have as teachers; the first two are very entertaining as people, while the latter two make the material enjoyable to learn. I also have two other great teachers, but they don't have very distinct characteristics that would let them fit into this analogy. However, I believe they all have a deep passion for teaching. 
 
 The first day of school was pretty interesting, because that's when I feel the influence of my brother the most. Some students have siblings that the teachers don't like all that much, so it would be better for them to conceal their identity, but that is not my situation. 
 

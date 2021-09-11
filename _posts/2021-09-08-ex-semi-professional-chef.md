@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Sharon Pittaway**](https://unsplash.com/photos/KUZnfk-2DSQ)"
 toc: true
 toc_sticky: true
-categories: [School]
+categories: [Personal, School]
 ---
 
 "Asparagus is the funniest vegetable" - W
