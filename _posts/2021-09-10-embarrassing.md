@@ -19,7 +19,7 @@ I expect people I know to read this blog at some point, probably when they first
 
 Boston is hot as hell in the summer and cold as penguin land in the winter. He was probably getting bit by bugs all day with sore muscles and various infections. So, the book isn't an accurate picture of what his life was actually like. You could call it obscuring reality, but I would say that he gave us the slice of his life he wanted to see, and that's ok. 
 
-If you really did want to know what my life was like, you could just follow me around everywhere. But at that point, you aren't living your life anymore, you're just shadowing someone else. It seems like the more of people's lives that can be directly transmitted to others' brains, the less people actually live their own. Enjoying other people's content is like eating carrots: if you eat a few, better vision; eat too many, you turn orange. 
+If you really did want to know what my life was like, you could just follow me around everywhere. But at that point, you aren't living your life anymore, you're just shadowing someone else. It seems like the more of people's lives that can be directly transmitted to others' brains, the less people actually live their own. Enjoying other people's content is like eating carrots: eat a few, better vision; eat too many, you turn orange. 
 
 ## Red Like the Sun, or Hemoglobin
 
