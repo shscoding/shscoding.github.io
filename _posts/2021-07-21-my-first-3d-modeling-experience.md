@@ -4,7 +4,7 @@ title: "My First 3D Modeling Experience"
 date: 2021-07-21 3:00:00 +00:00
 author_profile: true
 header: 
-  image: https://images.unsplash.com/photo-1524439210809-5b21a2e18582?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1102&q=80
+  image: assets/images/grayblocks.jpg
   caption: "Photo credit: [**Esther Jiao**](https://unsplash.com/photos/FKZwWLWgGyM)"
 toc: true
 toc_sticky: true

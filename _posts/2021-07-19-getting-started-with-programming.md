@@ -4,7 +4,7 @@ title: "Getting Started with Programming"
 date: 2021-07-19 14:00:00 +00:00
 author_profile: true
 header: 
-  image: https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=937&q=80
+  image: assets/images/sphere.jpg
   caption: "Photo credit: [**Michael Dziedzic**](https://unsplash.com/photos/qDG7XKJLKbs)"
 toc: true
 toc_sticky: true

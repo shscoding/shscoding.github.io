@@ -4,7 +4,7 @@ title: "Succinct Story"
 date: 2021-09-12 11:00:00 -04:00
 author_profile: true
 header: 
-  image: https://images.unsplash.com/photo-1599598711739-e082dba42d66?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+  image: assets/images/plane.jpg
   caption: "Photo credit: [**Sinitta Leuren**](https://unsplash.com/photos/g54aAP8dUW8)"
 toc: true
 toc_sticky: true

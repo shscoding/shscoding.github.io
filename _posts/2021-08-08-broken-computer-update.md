@@ -4,7 +4,7 @@ title: "August 2021 Status Update"
 date: 2021-08-08 20:00:00 -04:00
 author_profile: true
 header: 
-  image: https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80
+  image: assets/images/computer.jpg
   caption: "Photo credit: [**Alexandre Debiève**](https://unsplash.com/photos/FO7JIlwjOtU)"
 toc: true
 toc_sticky: true
