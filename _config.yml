@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Engi's Exchanges"
+title                    : "Staples Coding Club"
 title_separator          : "-"
-subtitle                 : "Ideas in motion"
-name                     : "Tom Zhang"
-description              : "Learning experiences"
+subtitle                 : "Programming and More"
+name                     : "Staples Coding Club"
+description              : "Theory and Application"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/tomLogo.png"
+logo                     : "/assets/imgs/..."
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,41 +107,16 @@ author:
   location         : "Connecticut, USA"
   email            : "zhangtom2088@gmail.com"
   links:
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCyj_vwme_dV8-YjySCjsdrw"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/pr1m3r"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/EngiTom"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/7omuu/"
-    - label: "Discord Server"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/fPAtmchhtp"
+    - label: "Sign-up Form"
+      icon: "fab fa-fw fa-wpforms"
+      url: "https://forms.gle/cFjMp5jCMvjiHjk58"
 
 # Site Footer
 footer:
   links:
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCyj_vwme_dV8-YjySCjsdrw"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/pr1m3r"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/EngiTom"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/7omuu/"
-    - label: "Discord Server"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/fPAtmchhtp"
-
+    - label: "Sign-up Form"
+      icon: "fab fa-fw fa-wpforms"
+      url: "https://forms.gle/cFjMp5jCMvjiHjk58"
 
 # Reading Files
 include:
@@ -277,27 +252,23 @@ defaults:
       path: ""
       type: home
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      author_profile: false
       read_time: true
       show_date: true
       toc: true
       toc_sticky: true
       toc_label: "Table of Contents"
       toc_icon: "cog"
-  # posts
-  - scope:
-      path: "/posts/"
-      type: posts
-    values:
-      layout: posts
-      author_profile: true
-      read_time: true
-      show_date: true
   # about
   - scope:
       path: "/about/"
       type: pages
     values:
+      author_profile: false
       layout: splash
+      toc: true
+      toc_sticky: true
+      toc_label: "Table of Contents"
+      toc_icon: "cog"
       
