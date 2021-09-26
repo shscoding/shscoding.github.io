@@ -3,9 +3,11 @@ layout: single
 title: About
 permalink: /about/
 author_profile: false
+toc: true
+toc_sticky: true
 ---
 
-# Welcome!
+## Welcome!
 
 We are the Staples High School Coding Club, a group of students that focus on learning new things related to computer science! We aim to collaborate on various projects based on the members' interests and skills. 
 
@@ -23,11 +25,11 @@ We understand that things get busy in high school, so you can decided how much y
 
 We will be meeting on Monday and/or Friday, in Room XXXX from X:XX to X:XX. Members are not required to come to every meeting. Feel free to drop in just to try it out!
 
-## What if I can't come to the meetings?
+### What if I can't come to the meetings?
 
 No problem, just engage with the club online on our Discord server (DM/Email Discord ID to any club member to join). 
 
-## Specifically, what areas/skills are being focused on?
+## Which areas/skills are being focused on?
 
 AI and machine learning are a major component of this year's coding club, and there may be seminars on AI given by guest speakers from the professional AI industry. 
 
@@ -38,6 +40,8 @@ The club will also be partnering with the Staples Cryptocurrency club to better 
 ## What kind of events will the club be attending?
 
 We will announce external events that are taking place, including hackathons (like MIT Blueprint), game jams, and programming competitions (such as USACO or Lockheed Martin's Code Quest). 
+
+There may be internal events at the school to create games or scenes and compete against students and teachers!
 
 Prior to that, students can learn the skills/techniques used in those events, including algorithms, mobile app development, web development, etc.
 

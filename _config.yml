@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Staples Coding Club"
 title_separator          : "-"
 subtitle                 : "Programming and More"
-name                     : #"Staples Coding Club"
+name                     : "" #"Staples Coding Club"
 description              : "Theory and Application"
 url                      : "https://staplescoders.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/imgs/..."
+logo                     : "/assets/imgs/sphere.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
