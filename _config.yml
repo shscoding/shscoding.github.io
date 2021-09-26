@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : "Programming and More"
 name                     : "Staples Coding Club"
 description              : "Theory and Application"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://staplescoders.github.io"
+baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/imgs/..."
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom Zhang"
-  avatar           : "/assets/images/me.jpg"
-  bio              : "Contact me to join the coding club or math team! "
-  location         : "Connecticut, USA"
-  email            : "zhangtom2088@gmail.com"
+  name             : "Staples Coding Club"
+  avatar           : "/assets/imgs/smth"
+  bio              : "smth"
+  location         : "USA"
+  email            : "None"
   links:
     - label: "Sign-up Form"
       icon: "fab fa-fw fa-wpforms"
