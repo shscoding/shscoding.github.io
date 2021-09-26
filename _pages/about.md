@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: false
 ---
 
-## Welcome!
+# Welcome!
 
 We are the Staples High School Coding Club, a group of students that focus on learning new things related to computer science! We aim to collaborate on various projects based on the members' interests and skills. 
 

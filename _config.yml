@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Staples Coding Club"
 title_separator          : "-"
 subtitle                 : "Programming and More"
-name                     : "Staples Coding Club"
+name                     : #"Staples Coding Club"
 description              : "Theory and Application"
 url                      : "https://staplescoders.github.io"
 baseurl                  : "/"
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
-search                   : true
+search                   : false
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -266,7 +266,7 @@ defaults:
       type: pages
     values:
       author_profile: false
-      layout: splash
+      layout: single
       toc: true
       toc_sticky: true
       toc_label: "Table of Contents"
