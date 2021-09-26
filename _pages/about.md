@@ -2,14 +2,12 @@
 layout: single
 title: About
 permalink: /about/
-author_profile: false
+author_profile: true
 toc: true
 toc_sticky: true
 ---
 
-## Welcome!
-
-We are the Staples High School Coding Club, a group of students that focus on learning new things related to computer science! We aim to collaborate on various projects based on the members' interests and skills. 
+Welcome! We are the Staples High School Coding Club, a group of students that focus on learning new things related to computer science! We aim to collaborate on various projects based on the members' interests and skills. 
 
 Our current club leaders are Graham Zemel (Class of '22) and Tom Zhang (Class of '23). You can contact them to join the club or sign up using the form on the homepage!
 
