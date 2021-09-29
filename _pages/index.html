@@ -1,14 +1,40 @@
 ---
 layout: splash
-title: Home
+title: The Staples Coding Club
 author_profile: true
 permalink: /
 classes:
     - landing
 header:
-    image: paul-frenzel.jpg
+    overlay_image: ../assets/images/paul-frenzel.jpg
     caption: "Photo credit: [**Paul Frenzel**](https://unsplash.com/photos/MnHQMzC6n-o)"
+    overlay_filter: rgba(0, 0, 50, 0.5)
+    cta_label: "Sign-Up Form"
+    cta_url: "https://forms.gle/cFjMp5jCMvjiHjk58"
+    excerpt: "Partnered with AI professionals from Stanford and MIT"
+
+intro: 
+    - excerpt: "A lot of changes are coming to the coding club this year, and more interests will be catered to in collaborative and novel ways."
+feature_row:
+    - image_path: ../assets/images/objdetect.png
+      title: "Machine Learning"
+      excerpt: "Learning and applying machine learning in collaborative projects!"
+
+    - image_path: ../assets/images/usaco.png
+      title: "Competitive Programming"
+      excerpt: "USACO and coding interview prep!"
+
+    - image_path: ../assets/images/jonah-pettrich.jpg
+      title: "Mobile Apps"
+      excerpt: "Making mobile apps! Photo credit: [**Jonah Pettrich**](https://unsplash.com/photos/V-dfcNnb9OU)"
+feature_row_2: 
+    - excerpt: "lolz"
+outro:
+    - excerpt: "We hope you can join us!"
 ---
 
-Hello there
+{% include feature_row id="intro" type="center" %}
 
+{% include feature_row %}
+
+{% include feature_row id='outro' type='center' %}
