@@ -21,7 +21,7 @@ We understand that things get busy in high school, so you can decided how much y
 
 ## When and where is the weekly club meeting?
 
-We will be meeting in-person on Monday, in Room 3025 from 2:45 to 3:45 PM. Members are not required to come to every meeting. Feel free to drop in just to try it out! 
+We will be meeting in-person on Wednesday, in Room 3025 from 2:45 to 3:45 PM. Members are not required to come to every meeting. Feel free to drop in just to try it out! 
 
 On other days, we may have virtual engagements on various topics through Discord.
 
