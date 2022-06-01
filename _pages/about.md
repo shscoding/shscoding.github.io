@@ -9,7 +9,7 @@ toc_sticky: true
 
 Welcome! We are the Staples High School Coding Club, a group of students that focus on learning new things related to computer science! We aim to collaborate on various projects based on the members' interests and skills. 
 
-Our current club leaders are Graham Zemel ('22), Tom Zhang ('23), and Ryan Salik ('23). You can contact them to join the club or sign up using the form on the homepage!
+Our current club leaders are Tom Zhang ('23), Ryan Salik ('23), Graham Zemel ('24). You can contact them to join the club or sign up using the form on the homepage!
 
 ## Is there a minimum experience level required to join?
 
@@ -25,17 +25,11 @@ We will be meeting in-person on Wednesday, in Room 3025 from 2:45 to 3:45 PM. Me
 
 On other days, we may have virtual engagements on various topics through Discord.
 
-### What if I can't come to the meetings?
-
-No problem, just engage with the club online on our Discord server over the week (DM/Email Discord ID to any club member to join). 
-
 ## Which areas/skills are being focused on?
 
 AI and machine learning are a major component of this year's coding club, and there may be seminars on AI given by guest speakers from the professional AI industry. 
 
 Members will also be exposed to mathematical modeling and visualization with Python's modules/packages, including Matplotlib, Plotly, and Manim. These skills may be applied by juniors and seniors in the annual MathWorks Math Modeling Challenge!
-
-The club will also be partnering with the Staples Cryptocurrency club to better understand blockchain technology and different real-world tasks that they may come across, such as building websites or apps collaboratively.
 
 ## What kind of events will the club be attending?
 
