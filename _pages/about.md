@@ -27,7 +27,7 @@ On other days, we may have virtual engagements on various topics through Discord
 
 ## Which areas/skills are being focused on?
 
-AI and machine learning are a major component of this year's coding club, and there may be seminars on AI given by guest speakers from the professional AI industry. 
+AI and machine learning are a major component of this year's coding club.
 
 Members will also be exposed to mathematical modeling and visualization with Python's modules/packages, including Matplotlib, Plotly, and Manim. These skills may be applied by juniors and seniors in the annual MathWorks Math Modeling Challenge!
 

@@ -20,3 +20,5 @@ Meanwhile, *please enjoy* the facial emotion recognition artificial intelligence
 We hope that you will sign up for our club next year!
 
 You know who to call if you need help with programming assignments!
+
+[Sign Up Here!](https://forms.gle/jpdUjGLzxYpTbewv7){: .btn .btn--inverse}
