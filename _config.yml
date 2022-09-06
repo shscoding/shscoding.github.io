@@ -24,8 +24,8 @@ description              : "We are Staples Coding Club, or SC^2, and we do lots 
 url                      : "https://staplescoders.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/logo2022.jpg"
-logo                     : "/assets/images/logo2022.jpg"
+teaser                   : "/assets/images/logo2022.png"
+logo                     : "/assets/images/logo2022.png"
 masthead_title           : "Staples Coding Club"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Staples Coding Club"
-  avatar           : "/assets/images/logo2022.jpg"
+  avatar           : "/assets/images/logo2022.png"
   bio              : "Join today!"
   location         : "Connecticut, USA"
   links:
