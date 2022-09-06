@@ -2,7 +2,7 @@
 layout: single
 title: Hello, World!
 permalink: /events/
-author_profile: false
+author_profile: true
 toc: false
 toc_sticky: true
 ---
