@@ -110,7 +110,7 @@ author:
       icon: "fab fa-fw fa-wpforms"
       url: "https://forms.gle/jpdUjGLzxYpTbewv7"
     - label: "Math Team Website"
-      icon: "fab fa-fw fa-external-link"
+      icon: "fab fa-fw fa-link"
       url: "https://shsmathteam.github.io"
 
 # Site Footer
@@ -120,7 +120,7 @@ footer:
       icon: "fab fa-fw fa-wpforms"
       url: "https://forms.gle/jpdUjGLzxYpTbewv7"
     - label: "Math Team Website"
-      icon: "fab fa-fw fa-external-link"
+      icon: "fab fa-fw fa-link"
       url: "https://shsmathteam.github.io"
 
 # Reading Files
