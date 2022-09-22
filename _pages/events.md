@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hello, World!
+title: Events!
 permalink: /events/
 author_profile: true
 toc: false
@@ -14,5 +14,7 @@ You may be wondering,
 Well, we focus on **fun and creative** projects like this in coding club, in addition to learning useful algorithms for courses at Staples and beyond!
 
 We hope you enjoyed the facial emotion recognition artificial intelligence project on display!
+
+Some awesome things we do include (but are not limited to) facial recognition, python automation, web apps, mobile apps, and algorithmic centered programming!
 
 [Sign Up Here!](https://forms.gle/jpdUjGLzxYpTbewv7){: .btn .btn--inverse}
