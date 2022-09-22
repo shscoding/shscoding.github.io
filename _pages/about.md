@@ -9,13 +9,13 @@ toc_sticky: true
 
 Welcome to Staples Coding Club, a group of students focusing on learning new things related to coding! 
 
-Our current club leaders are [Tom Zhang '23](https://engitom.github.io), Ryan Salik '23, and Graham Zemel '24. 
+Our current club leaders are [Tom Zhang '23](https://engitom.github.io), Ryan Salik '23, and [Graham Zemel '24](https://grahamzemel.xyz). 
 
 ## How big is the commitment?
-We understand that things get busy in high school, but we have weekly meetings where we do most of our work. 
+We understand that high school can be stressing at times, but we have weekly meetings Wednesdays at 2:45 in room 3025 for those who would like to join.
 
 ## Is there a minimum experience level required to join?
-Nope.
+Nope, you can join knowing 0 coding languages or having taken AP Computer Science courses (or more!)
 
 ## How will this help me?
 You will be able to show off your independent projects as part of your **portfolio** and apply techniques to future work!
