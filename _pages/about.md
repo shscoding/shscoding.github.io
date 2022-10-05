@@ -9,7 +9,9 @@ toc_sticky: true
 
 Welcome to Staples Coding Club, a group of students focusing on learning new things related to coding! 
 
-Our current club leaders are [Tom Zhang '23](https://engitom.github.io), [Ryan Salik '23](https://ryansalik.com), and [Graham Zemel '24](https://grahamzemel.xyz). 
+Our current club presidents are [Tom Zhang '23](https://engitom.github.io), [Ryan Salik '23](https://ryansalik.com), and [Graham Zemel '24](https://grahamzemel.xyz). 
+
+Our club secretary is Caitlyn Chu '23.
 
 ## How big is the commitment?
 We understand that high school can be stressing at times, but we have weekly meetings Wednesdays at 2:45 in room 3025 for those who would like to join.
