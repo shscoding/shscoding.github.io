@@ -7,14 +7,15 @@ toc: true
 toc_sticky: true
 ---
 
-Welcome to Staples Coding Club, a group of students focusing on learning new things related to coding! 
+Welcome to the Staples Coding Club, a group of students focusing on learning new things related to coding! 
 
 Our current club presidents are [Tom Zhang '23](https://engitom.github.io), [Ryan Salik '23](https://ryansalik.com), and [Graham Zemel '24](https://grahamzemel.xyz). 
-
+Our club treasurer is Arda Ernamli '23.
 Our club secretary is Caitlyn Chu '23.
+Our club coordinator is Henry Matar '23.
 
 ## How big is the commitment?
-We understand that high school can be stressing at times, but we have weekly meetings Wednesdays at 2:45 in room 3025 for those who would like to join.
+We understand that high school can be stressing at times, but we usually have weekly meetings Wednesdays at 2:45 in room 3025 for those who would like to join. If you have specific questions about coding problems or projects you're doing (school related projects included), feel free to contact one of us through our websites, or DM us on Instagram @shscoding
 
 ## Is there a minimum experience level required to join?
 Nope, you can join knowing 0 coding languages or having taken AP Computer Science courses (or more!)
@@ -25,7 +26,7 @@ You will be able to show off your independent projects as part of your **portfol
 ## When and where is the weekly club meeting?
 We meet in-person on **Wednesday, in Room 3025 from 2:45 to 3:45 PM**. 
 
-Members are not required to come to every meeting. Feel free to drop in! 
+Members are not required to come to every meeting, but highly encouraged. Feel free to drop in, we have **pizza!🍕**
 
 ## Which areas/skills are involved?
 **AI and machine learning** are a major component of this year's coding club, as well as **web and game development**. 
@@ -36,4 +37,4 @@ External events that are taking place, including **hackathons** (like Wafflehack
 Prior to that, students can learn the necessary skills and techniques in **web development and game development**.
 
 ## What if my interests are not listed?
-There are a lot of areas that intersect with computer science and it is difficult to cover them all, so feel free to introduce the club to anything you might be knowledgeable about, like environmental science or chemistry!
+There's a ton of different computer science 'branches', so whether you like making websites or coding simple tools we do our best to accomodate the learning of everyone in the club. If theres a specific topic you'd like to go further into, you can always shoot an email or utilize the contact info on each of our websites. ([Tom Zhang](https://engitom.github.io) | [Ryan Salik](https://ryansalik.com) | [Graham Zemel](https://grahamzemel.xyz))
