@@ -17,4 +17,4 @@ We hope you enjoyed the facial emotion recognition artificial intelligence proje
 
 Some awesome things we do include (but are not limited to) facial recognition, python automation, web apps, mobile apps, and algorithmic centered programming!
 
-[Sign Up Here!](https://forms.gle/jpdUjGLzxYpTbewv7){: .btn .btn--inverse}
+[Sign Up Here!](https://forms.gle/ceTUrBq6KwNqFLUS8){: .btn .btn--inverse}
