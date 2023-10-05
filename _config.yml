@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Staples Coding Club"
-title_separator          : "-"
-subtitle                 : "Programming and More"
+title_separator          : ""
+subtitle                 : ""
 name                     : "" #"Staples Coding Club"
 description              : "We are Staples Coding Club, or SC^2, and we do lots of fun AI, web & gamedev projects!"
-url                      : "https://staplescoders.github.io"
+url                      : "https://shscoding.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/logo2022.png"
@@ -108,20 +108,20 @@ author:
   links:
     - label: "Sign-up Form"
       icon: "fab fa-fw fa-wpforms"
-      url: "https://forms.gle/8WdgmNM6hj4kXf9u5"
-    - label: "Math Team Website"
+      url: "https://forms.gle/PvMC7xQ9f18gdw5z6"
+    - label: "Graham Zemel ('24)"
       icon: "fas fa-link"
-      url: "https://shsmathteam.github.io"
+      url: "https://grahamzemel.com"
 
 # Site Footer
 footer:
   links:
     - label: "Sign-up Form"
       icon: "fab fa-fw fa-wpforms"
-      url: "https://forms.gle/8WdgmNM6hj4kXf9u5"
-    - label: "Math Team Website"
+      url: "https://forms.gle/PvMC7xQ9f18gdw5z6"
+    - label: "Graham Zemel ('24)"
       icon: "fas fa-link"
-      url: "https://shsmathteam.github.io"
+      url: "https://grahamzemel.com"
 
 # Reading Files
 include:
