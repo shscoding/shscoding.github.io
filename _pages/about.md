@@ -34,4 +34,4 @@ External events that are taking place, including **hackathons** (like Wafflehack
 Prior to that, students can learn the necessary skills and techniques in **web development and game development**.
 
 ## What if my interests are not listed?
-There's a ton of different computer science 'branches', so whether you like making websites or coding simple tools we do our best to accomodate the learning of everyone in the club. If theres a specific topic you'd like to go further into, you can always shoot an email or utilize the contact info on each of our websites. ([Tom Zhang](https://engitom.github.io) | [Ryan Salik](https://ryansalik.com) | [Graham Zemel](https://grahamzemel.xyz))
+There's a ton of different computer science 'branches', so whether you like making websites or coding simple tools we do our best to accomodate the learning of everyone in the club. If there's a specific topic you'd like to go further into, you can always shoot over an email to either of the presidents: [Graham Zemel]("mailto:gz1004761@students.westportps.org") / [Perrin Root]("mailto:pr1003826@students.westportps.org").
